@@ -11,3 +11,4 @@ __pycache__/
 
 # Data Files
 intro-to-pytorch/Cat_Dog_data/
+data/
